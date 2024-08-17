@@ -11,6 +11,7 @@ export default function Document() {
           rel="stylesheet"
           href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
           <script src='https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.10.2/lottie.min.js' defer></script>
+          <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/> 
           
       </Head>
       <body>

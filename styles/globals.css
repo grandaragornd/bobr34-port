@@ -29,7 +29,7 @@
 
 
 body {
-  @apply h-full;
+ 
   @apply absolute;
 }
 
@@ -74,27 +74,12 @@ body {
   
 }
 
-.backgroundheader{
-  background-image: url('https://images.unsplash.com/photo-1496096265110-f83ad7f96608?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80');
-  background-size: cover;
-  background-repeat: no-repeat;
+.bghamburg{
+  background-image: url('https://img.goodfon.com/wallpaper/nbig/b/49/hamburg-germany-zollkanal-gamburg-germaniia-tsollkanal-kanal.webp');
   background-attachment: fixed;
-  background-position: center;
-}
-
-.backgroundskills{
-  background-image: url('https://images.unsplash.com/photo-1635471885959-945b7c40251a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1700&q=80');
-  background-size: cover;
   background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
-}
-.backgroundcontact{
-  background-image: url('https://images.unsplash.com/photo-1608447714925-599deeb5a682?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1472&q=80');
   background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
+  
 }
 
 /* accent colors */
